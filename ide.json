@@ -1,0 +1,319 @@
+{
+  "ret": 0,
+  "iRet": 0,
+  "sMsg": "ok",
+  "jData": {
+    "iRet": "0",
+    "sMsg": "ok",
+    "data1": {
+      "side1": [
+        {
+          "id": "105",
+          "heroName": "奥黛丽",
+          "camp": "",
+          "job": "",
+          "winRate": 50.96,
+          "selectRate": 8,
+          "kd": 0.94,
+          "damageAve": 265.84,
+          "score": 199.01
+        },
+        {
+          "id": "107",
+          "heroName": "玛德蕾娜",
+          "camp": "",
+          "job": "",
+          "winRate": 51.13,
+          "selectRate": 8.97,
+          "kd": 0.86,
+          "damageAve": 205.34,
+          "score": 206.44
+        },
+        {
+          "id": "109",
+          "heroName": "令",
+          "camp": "",
+          "job": "",
+          "winRate": 50.43,
+          "selectRate": 34.98,
+          "kd": 0.82,
+          "damageAve": 213.15,
+          "score": 196.99
+        },
+        {
+          "id": "110",
+          "heroName": "白墨",
+          "camp": "",
+          "job": "",
+          "winRate": 50.49,
+          "selectRate": 28.5,
+          "kd": 1.04,
+          "damageAve": 227.5,
+          "score": 188.41
+        },
+        {
+          "id": "112",
+          "heroName": "绯莎",
+          "camp": "",
+          "job": "",
+          "winRate": 52.68,
+          "selectRate": 28,
+          "kd": 1.11,
+          "damageAve": 237.1,
+          "score": 211.53
+        },
+        {
+          "id": "119",
+          "heroName": "艾卡",
+          "camp": "",
+          "job": "",
+          "winRate": 54.22,
+          "selectRate": 63.59,
+          "kd": 1.3,
+          "damageAve": 271.61,
+          "score": 211.98
+        },
+        {
+          "id": "120",
+          "heroName": "珐格兰丝",
+          "camp": "",
+          "job": "",
+          "winRate": 52.3,
+          "selectRate": 26.81,
+          "kd": 0.88,
+          "damageAve": 190.02,
+          "score": 200.73
+        },
+        {
+          "id": "128",
+          "heroName": "拉薇",
+          "camp": "",
+          "job": "",
+          "winRate": 53.33,
+          "selectRate": 77.96,
+          "kd": 0.98,
+          "damageAve": 200.13,
+          "score": 209.48
+        },
+        {
+          "id": "132",
+          "heroName": "明",
+          "camp": "",
+          "job": "",
+          "winRate": 53.37,
+          "selectRate": 90.26,
+          "kd": 1.2,
+          "damageAve": 299.62,
+          "score": 234.71
+        },
+        {
+          "id": "133",
+          "heroName": "梅瑞狄斯",
+          "camp": "",
+          "job": "",
+          "winRate": 54.75,
+          "selectRate": 22.01,
+          "kd": 0.99,
+          "damageAve": 197.72,
+          "score": 195.81
+        },
+        {
+          "id": "137",
+          "heroName": "香奈美",
+          "camp": "",
+          "job": "",
+          "winRate": 52.55,
+          "selectRate": 51.01,
+          "kd": 0.88,
+          "damageAve": 231.39,
+          "score": 217.61
+        },
+        {
+          "id": "146",
+          "heroName": "星绘",
+          "camp": "",
+          "job": "",
+          "winRate": 54.13,
+          "selectRate": 47.69,
+          "kd": 0.92,
+          "damageAve": 189.02,
+          "score": 193.49
+        },
+        {
+          "id": "205",
+          "heroName": "加拉蒂亚",
+          "camp": "",
+          "job": "",
+          "winRate": 50.43,
+          "selectRate": 12.22,
+          "kd": 0.97,
+          "damageAve": 210.53,
+          "score": 181.93
+        }
+      ],
+      "side2": [
+        {
+          "id": "101",
+          "heroName": "米雪儿",
+          "camp": "",
+          "job": "",
+          "winRate": 47.67,
+          "selectRate": 87.05,
+          "kd": 1.01,
+          "damageAve": 253.45,
+          "score": 215.1
+        },
+        {
+          "id": "105",
+          "heroName": "奥黛丽",
+          "camp": "",
+          "job": "",
+          "winRate": 47.46,
+          "selectRate": 25.71,
+          "kd": 0.96,
+          "damageAve": 272.5,
+          "score": 200.27
+        },
+        {
+          "id": "107",
+          "heroName": "玛德蕾娜",
+          "camp": "",
+          "job": "",
+          "winRate": 46.89,
+          "selectRate": 31.6,
+          "kd": 0.91,
+          "damageAve": 205.53,
+          "score": 210.8
+        },
+        {
+          "id": "108",
+          "heroName": "信",
+          "camp": "",
+          "job": "",
+          "winRate": 47.51,
+          "selectRate": 27.7,
+          "kd": 0.93,
+          "damageAve": 235.86,
+          "score": 196.22
+        },
+        {
+          "id": "110",
+          "heroName": "白墨",
+          "camp": "",
+          "job": "",
+          "winRate": 46.31,
+          "selectRate": 43.03,
+          "kd": 1,
+          "damageAve": 224.26,
+          "score": 184.58
+        },
+        {
+          "id": "112",
+          "heroName": "绯莎",
+          "camp": "",
+          "job": "",
+          "winRate": 47.51,
+          "selectRate": 41.57,
+          "kd": 1.08,
+          "damageAve": 233.76,
+          "score": 208.17
+        },
+        {
+          "id": "115",
+          "heroName": "芙拉薇娅",
+          "camp": "",
+          "job": "",
+          "winRate": 48.77,
+          "selectRate": 54.15,
+          "kd": 1.11,
+          "damageAve": 238.93,
+          "score": 195.27
+        },
+        {
+          "id": "124",
+          "heroName": "心夏",
+          "camp": "",
+          "job": "",
+          "winRate": 47.06,
+          "selectRate": 50.57,
+          "kd": 0.89,
+          "damageAve": 224.76,
+          "score": 202.28
+        },
+        {
+          "id": "131",
+          "heroName": "伊薇特",
+          "camp": "",
+          "job": "",
+          "winRate": 47.19,
+          "selectRate": 30.07,
+          "kd": 0.98,
+          "damageAve": 197.55,
+          "score": 186.52
+        },
+        {
+          "id": "146",
+          "heroName": "星绘",
+          "camp": "",
+          "job": "",
+          "winRate": 47.33,
+          "selectRate": 37.35,
+          "kd": 0.86,
+          "damageAve": 192.28,
+          "score": 180.35
+        },
+        {
+          "id": "205",
+          "heroName": "加拉蒂亚",
+          "camp": "",
+          "job": "",
+          "winRate": 45.07,
+          "selectRate": 11.56,
+          "kd": 0.95,
+          "damageAve": 208.6,
+          "score": 180.24
+        },
+        {
+          "id": "121",
+          "heroName": "忧雾",
+          "camp": "",
+          "job": "",
+          "winRate": 46.41,
+          "selectRate": 25.33,
+          "kd": 0.86,
+          "damageAve": 183,
+          "score": 177.98
+        },
+        {
+          "id": "123",
+          "heroName": "蕾欧娜",
+          "camp": "",
+          "job": "",
+          "winRate": 43.66,
+          "selectRate": 34.33,
+          "kd": 0.78,
+          "damageAve": 201.03,
+          "score": 157.89
+        }
+      ],
+      "max": {
+        "side1": {
+          "winRate": 54.75,
+          "selectRate": 90.26,
+          "kd": 1.3,
+          "damageAve": 299.62,
+          "score": 234.71
+        },
+        "side2": {
+          "winRate": 48.77,
+          "selectRate": 87.05,
+          "kd": 1.11,
+          "damageAve": 272.5,
+          "score": 215.1
+        }
+      }
+    },
+    "data2": []
+  },
+  "sAmsSerial": "**************************************"
+}
